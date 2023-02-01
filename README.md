@@ -18,10 +18,13 @@ Include a well-written Readme file as part of your final submission.
 # Assignment Requirements
 ● Create a repository for your project using the correct naming convention
 (lastName_firstInitial_FIP)
+
 ● Use workflow practices as outlined in class - branches, commits, pull requests and
 merges (NEVER work directly on the main/master branch)
+
 ● Include a well-written Readme file using Markdown formatting. Be sure to include the
 required sections (refer to the example file for reference)
+
 ● Use UX/UI enhancements of your choice using CSS best practices as demonstrated
 in class. Use an animation, hover effect, :checked, :selected, ::after, ::before etc. Use
 a lightbox, “see more”, virtual content etc. The more the better!
